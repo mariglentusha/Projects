@@ -1,0 +1,45 @@
+h2{
+	color:red;
+	text-align: center;
+}
+#b { display: none; }​
+
+input[type=checkbox]{
+
+	
+  padding: 25px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+
+} #c{ display: none; }​
+
+input[type=submit]{
+
+background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 16px 64px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+#form1{
+	 padding: 72px 0;
+  border: 3px solid green;
+  text-align: center;
+
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+#a { display: none; }​
